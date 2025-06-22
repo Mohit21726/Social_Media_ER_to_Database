@@ -1,4 +1,4 @@
-## Social_Media_ER_to_Database
+# Social_Media_ER_to_Database
 
 # About
 <ul>
