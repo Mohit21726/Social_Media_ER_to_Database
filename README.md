@@ -8,3 +8,7 @@
 <li>Here we have  tried to fetch and store the  data in its true storage form into this database like (img/videos in url) </li>
 <li>With our true efforts and research  we have tried to give a simple and more exact view of a basic social interconnecting site.</li>
 </ul>
+
+## Database ER Diagram
+![alt text][ExecSumm]
+[ExecSumm]: images/First.png "Main summary of data"
