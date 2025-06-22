@@ -11,4 +11,5 @@
 
 ## Database ER Diagram
 ![alt text][ExecSumm]
+
 [ExecSumm]: images/First.png "Main summary of data"
