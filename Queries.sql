@@ -90,7 +90,7 @@ ORDER BY COUNT(follower_id) DESC;
 
 -- 15. Any specific word in comment
 SELECT * FROM comments
-WHERE comment_text like '%good|beautiful%';
+WHERE comment_text like '%good%' or comment_text like '%beautiful%';
 
 
 -- 16. Longest captions in post
